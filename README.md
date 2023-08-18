@@ -4,7 +4,7 @@ Bem-vindo ao repositório do meu Projeto de Java com POO, inspirado no conteúdo
 
 ## Descrição
 
-Este projeto é um exemplo de aplicação de cadastro bancário que utiliza classes e objetos para representar contas bancárias. Foi desenvolvido como parte do curso [BackEnd Java Santander da DIO.
+Este projeto é um exemplo de aplicação de cadastro bancário que utiliza classes e objetos para representar contas bancárias. Foi desenvolvido como parte do curso BackEnd Java Santander da DIO.
 
 ## Funcionalidades
 
