@@ -1,4 +1,4 @@
-package model.service;
+package model.entities;
 
 public class BankAccount {
 	private Integer number;
@@ -50,7 +50,7 @@ public class BankAccount {
 		return clientName + " " 
 	          + "obrigado por criar uma conta em nosso banco, sua agência é "
 	          + bankBranch	+ ", conta \n" + number 
-	          +" e o seu saldo " + String.format("%.2f", balance) + " já está disponível para saque" ;
+	          +" e o seu saldo e de: " + String.format("%.2f", balance) + " R$ já está disponível para saque" ;
 	}
 	
 	
